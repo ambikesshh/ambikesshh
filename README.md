@@ -13,7 +13,7 @@ Developer with experience in full-stack development.
 
 ## Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,rust,react,nextjs,tailwind,nodejs,express,django,mongodb,postgres,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,js,ts,python,cpp,rust,react,nextjs,tailwind,nodejs,express,mongodb,postgres,aws,docker" />
 </div>
 
 ## GitHub Analytics
