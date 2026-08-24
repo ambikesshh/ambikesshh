@@ -11,3 +11,7 @@
 <a href="https://discord.com/users/1284505241680871459"><img src="https://img.shields.io/badge/discord-ambikesshh-5865F2?style=flat&logo=discord&logoColor=white" alt="discord"></a>
 
 </div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ambikeesshh&style=flat&color=black" alt="profile views">
+</p>
