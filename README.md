@@ -13,5 +13,5 @@
 </div>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ambikeesshh&style=flat&color=black" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=ambikeesshh&style=flat&color=000000" alt="profile views">
 </p>
